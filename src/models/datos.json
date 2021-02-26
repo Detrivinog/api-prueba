@@ -1,0 +1,32 @@
+[
+    {
+        "empleado": "Pepe Pérez",
+        "departmamento": "Producción",
+        "salario": 5000,
+        "participacion": 62.5
+    },
+    {
+        "empleado": "Fulano de Tal",
+        "departmamento": "Producción",
+        "salario": 3000,
+        "participacion": 37.5
+    },
+    {
+        "empleado": "Pedro Pérez",
+        "departmamento": "Comercial",
+        "salario": 3000,
+        "participacion": 75
+    },
+    {
+        "empleado": "Juan Valdez",
+        "departmamento": "Comercial",
+        "salario": 1000,
+        "participacion": 25
+    },
+    {
+        "empleado": "Luisa Ochoa",
+        "departmamento": "Sistemas",
+        "salario": 1800,
+        "participacion": 100
+    } 
+]
